@@ -6,4 +6,4 @@
 
 4. Realize a expressão (n1 x 10) + n2 e armazene como resultado final r #Processamento
 
-15. Apresente r (o resultado final) e encerre o programa #Saída
+5. Apresente r (o resultado final) e encerre o programa #Saída
